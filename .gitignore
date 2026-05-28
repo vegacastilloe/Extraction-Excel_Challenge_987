@@ -1,0 +1,40 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+
+# Archivos de configuración local
+*.env
+*.ini
+*.cfg
+
+# Archivos de Excel
+*.xlsx
+*.xls
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de log y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas ocultas de VSCode, PyCharm, etc.
+.vscode/
+.idea/
+
+# Archivos de salida o resultados
+/output/
+/results/
